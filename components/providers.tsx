@@ -9,7 +9,7 @@ export function Providers({ children }: { children: ReactNode }): ReactNode {
   return (
     <ThemeProvider
       attribute="class"
-      defaultTheme="system"
+      defaultTheme="light"
       enableSystem
       disableTransitionOnChange
     >
@@ -19,3 +19,4 @@ export function Providers({ children }: { children: ReactNode }): ReactNode {
     </ThemeProvider>
   );
 }
+
