@@ -8,7 +8,7 @@ import DitherCursor from "./dither-cursor";
 import RotatingCards, { type Card } from "./rotating-cards";
 
 const easeOut = [0.16, 1, 0.3, 1] as const;
-const headlineText = "No More Time To Waste";
+const headlineText = "A Twin for Every Home";
 
 const cardData = [
   { label: "Chrome Extension", image: "/img/chrome-extension.webp" },
@@ -141,7 +141,7 @@ export function Hero(): ReactNode {
           className="text-muted-foreground mx-auto mt-6 max-w-xl text-2xl leading-12 tracking-tight md:text-3xl"
         >
           <span className="text-foreground bg-foreground/5 inline-block rounded-md px-2 py-0.5 leading-10">
-            Read less
+            Hunt less
           </span>{" "}
           &{" "}
           <span className="text-foreground bg-foreground/5 inline-block rounded-full px-4 py-0.5 leading-10">
@@ -151,7 +151,7 @@ export function Hero(): ReactNode {
           <span className="text-foreground bg-foreground/5 inline-block rounded-md px-2 py-0.5 leading-10">
             hours
           </span>{" "}
-          every week with AI summaries done right.
+          every week with an AI twin keeps plans, systems, and maintenance in one place.
         </motion.p>
       </div>
 

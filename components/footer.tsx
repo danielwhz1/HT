@@ -65,7 +65,7 @@ export function Footer(): ReactNode {
         <div className="grid grid-cols-1 gap-12 lg:grid-cols-2 lg:gap-20">
           <motion.div className="max-w-md" {...fadeInUp}>
             <p className="text-lg leading-relaxed text-black/80">
-              Ready to read smarter? TLDR transforms any article into a concise summary,
+              Ready to read smarter? HT transforms any article into a concise summary,
               helping you stay informed without the time commitment.
             </p>
             <Link
@@ -127,7 +127,7 @@ export function Footer(): ReactNode {
               Out To Us
             </h2>
             <p className="mt-8 text-sm text-black/50">
-              © {new Date().getFullYear()} TLDR Technologies Inc.
+              © {new Date().getFullYear()} HT Technologies Inc.
             </p>
           </motion.div>
 
@@ -144,10 +144,10 @@ export function Footer(): ReactNode {
                 </p>
               </div>
               <a
-                href="mailto:hello@tldr.app"
+                href="mailto:admin@HouseTwin.ai"
                 className="inline-block text-lg font-medium underline underline-offset-4 transition-opacity hover:opacity-70"
               >
-                hello@tldr.app
+                admin@HouseTwin.ai
               </a>
             </motion.div>
 

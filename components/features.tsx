@@ -19,7 +19,7 @@ const features: Feature[] = [
     number: "01",
     title: "Summarize content",
     description:
-      "Articles, videos, podcasts, PDFs, research papers — TLDR handles them all.",
+      "Articles, videos, podcasts, PDFs, research papers — HT handles them all.",
     image: "/img/article-summary.webp",
   },
   {
@@ -99,7 +99,7 @@ export function Features(): ReactNode {
             Turn insights into action
           </h2>
           <p className="text-muted-foreground mb-6 max-w-sm text-base md:mb-8 md:text-lg">
-            TLDR helps you consume content faster and always extracts what
+            HT helps you consume content faster and always extracts what
             matters.
           </p>
           <a

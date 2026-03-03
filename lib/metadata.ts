@@ -10,14 +10,14 @@ export const siteConfig = {
   creator: "@tldr",
   authors: [
     {
-      name: "TLDR Technologies",
+      name: "HT Technologies",
       url: "https://example.com",
     },
   ],
   keywords: [
     "AI summarizer",
     "article summary",
-    "TLDR",
+    "HT",
     "content summarization",
     "productivity",
     "reading assistant",

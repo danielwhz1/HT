@@ -17,35 +17,35 @@ const testimonials: Testimonial[] = [
   {
     title: "10 Hours Saved Every Week",
     description:
-      "I used to spend hours reading through research papers and articles. Now TLDR gives me the key insights in seconds. It's completely changed how I consume content.",
+      "I used to spend hours reading through research papers and articles. Now HT gives me the key insights in seconds. It's completely changed how I consume content.",
     name: "Sarah Chen",
     role: "Product Manager at Stripe",
   },
   {
     title: "My Secret Productivity Weapon",
     description:
-      "As a busy professional, I don't have time to watch every video or read every article. TLDR lets me stay informed without the time commitment.",
+      "As a busy professional, I don't have time to watch every video or read every article. HT lets me stay informed without the time commitment.",
     name: "Marcus Johnson",
     role: "Senior Engineer at Vercel",
   },
   {
     title: "Works With Everything",
     description:
-      "Articles, YouTube videos, podcasts, PDFs—TLDR handles it all. One tool for all my summarization needs. The consistency is remarkable.",
+      "Articles, YouTube videos, podcasts, PDFs—HT handles it all. One tool for all my summarization needs. The consistency is remarkable.",
     name: "Elena Rodriguez",
     role: "Content Strategist at Notion",
   },
   {
     title: "Actually Useful AI",
     description:
-      "Unlike other AI tools that give generic responses, TLDR actually captures what matters. The summaries are accurate and save me from information overload.",
+      "Unlike other AI tools that give generic responses, HT actually captures what matters. The summaries are accurate and save me from information overload.",
     name: "David Park",
     role: "Research Lead at OpenAI",
   },
   {
     title: "Perfect for Research",
     description:
-      "I go through dozens of papers weekly. TLDR helps me quickly identify which ones deserve a deeper read. It's become essential to my workflow.",
+      "I go through dozens of papers weekly. HT helps me quickly identify which ones deserve a deeper read. It's become essential to my workflow.",
     name: "Priya Sharma",
     role: "PhD Candidate at MIT",
   },

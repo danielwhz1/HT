@@ -8,9 +8,9 @@ const easeOut = [0.16, 1, 0.3, 1] as const;
 
 const faqs = [
   {
-    question: "How does TLDR summarize content?",
+    question: "How does HT summarize content?",
     answer:
-      "TLDR uses advanced AI models to analyze and extract key information from any article, video, or document. Our algorithms identify the most important points and present them in a concise, easy-to-read format.",
+      "HT uses advanced AI models to analyze and extract key information from any article, video, or document. Our algorithms identify the most important points and present them in a concise, easy-to-read format.",
   },
   {
     question: "Is my data private and secure?",
@@ -18,9 +18,9 @@ const faqs = [
       "Absolutely. We process content locally whenever possible and never store your browsing history or personal data. All connections are encrypted, and we're fully GDPR compliant.",
   },
   {
-    question: "Can I use TLDR on any website?",
+    question: "Can I use HT on any website?",
     answer:
-      "Yes! TLDR works on virtually any website with text content. This includes news articles, blog posts, research papers, documentation, and even YouTube video transcripts.",
+      "Yes! HT works on virtually any website with text content. This includes news articles, blog posts, research papers, documentation, and even YouTube video transcripts.",
   },
   {
     question: "What's included in the free plan?",
@@ -140,7 +140,7 @@ export function FAQ(): ReactNode {
             Still have questions? We&apos;re here to help.
           </p>
           <a
-            href="mailto:hello@tldr.app"
+            href="mailto:admin@HouseTwin.ai"
             className="group inline-flex items-center gap-3 rounded-md bg-background py-3 pl-5 pr-3 font-medium text-foreground shadow-lg transition-all duration-500 ease-out hover:rounded-[50px]"
           >
             <span>Get in Touch</span>

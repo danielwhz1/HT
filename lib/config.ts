@@ -6,7 +6,7 @@
  */
 
 export const siteConfig = {
-  name: "TLDR",
+  name: "HT",
   tagline: "Read smarter, not longer",
   description: "AI-powered summaries for articles, videos, and documents. Save hours every week.",
   url: "https://example.com",
@@ -29,7 +29,7 @@ export const siteConfig = {
 export const heroConfig = {
   headline: {
     prefix: "Get the",
-    accent: "TLDR",
+    accent: "HT",
     suffix: "on anything",
   },
   description: "Summarize articles, videos, podcasts, and PDFs instantly. Read smarter, not longer.",
@@ -103,7 +103,7 @@ export const faqConfig = {
     text: "Still have questions? We're here to help.",
     cta: {
       text: "Get in Touch",
-      href: "mailto:hello@tldr.app",
+      href: "mailto:admin@HouseTwin.ai",
     },
   },
 } as const;
@@ -118,7 +118,7 @@ export const finalCtaConfig = {
 } as const;
 
 export const footerConfig = {
-  description: "Ready to read smarter? TLDR transforms any article into a concise summary, helping you stay informed without the time commitment.",
+  description: "Ready to read smarter? HT transforms any article into a concise summary, helping you stay informed without the time commitment.",
   cta: {
     text: "Get Started Free",
     href: "#",
@@ -141,9 +141,9 @@ export const footerConfig = {
     location: "San Francisco",
     address: "548 Market St, Suite 95000\nSan Francisco, CA 94104",
     hours: "Mon-Fri 9:00 am - 6:00 pm (PST)",
-    email: "hello@tldr.app",
+    email: "admin@HouseTwin.ai",
   },
-  copyright: `© ${new Date().getFullYear()} TLDR Technologies Inc.`,
+  copyright: `© ${new Date().getFullYear()} HT Technologies Inc.`,
 } as const;
 
 /**

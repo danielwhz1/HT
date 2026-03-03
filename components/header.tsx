@@ -116,10 +116,10 @@ function MenuCard({ card }: { card: (typeof menuCards)[number] }): ReactNode {
       {card.id === "contact" && (
         <div className="mt-6 flex h-[calc(100%-2rem)] flex-col justify-between pb-4">
           <Link
-            href="mailto:hello@tldr.app"
+            href="mailto:admin@HouseTwin.ai"
             className="text-background hover:text-background/70 text-xl font-semibold transition-colors md:text-2xl"
           >
-            hello@tldr.app
+            admin@HouseTwin.ai
           </Link>
           <div className="mt-auto flex items-center gap-4 pt-8">
             {socialLinks.map(({ label, icon: Icon, href }) => (
@@ -277,7 +277,7 @@ export function Header(): ReactNode {
           <div className="flex w-full items-center justify-between py-2 pr-2 pl-4">
             <Link href="/">
               <span className="text-background text-4xl font-extrabold -tracking-widest">
-                TLDR
+                HT
               </span>
             </Link>
 

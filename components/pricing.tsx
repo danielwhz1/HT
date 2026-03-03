@@ -30,7 +30,7 @@ const plans: Plan[] = [
   },
   {
     name: "Pro",
-    tagline: "Get everything out of TLDR",
+    tagline: "Get everything out of HT",
     price: "$6",
     period: "month",
     highlighted: true,

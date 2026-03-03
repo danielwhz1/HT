@@ -12,13 +12,13 @@ const steps = [
     icon: Download,
     title: "Install the extension",
     description:
-      "Add TLDR to Chrome or Safari with one click. No sign-up required to get started.",
+      "Add HT to Chrome or Safari with one click. No sign-up required to get started.",
   },
   {
     icon: MousePointer,
     title: "Browse normally",
     description:
-      "Visit any article, video, or document. TLDR detects content automatically.",
+      "Visit any article, video, or document. HT detects content automatically.",
   },
   {
     icon: Sparkles,
